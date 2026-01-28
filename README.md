@@ -27,8 +27,6 @@ Repositorios:
 2. Abre la misma web en una ventana **Incógnito** o en otro navegador (Jugador 2)
 3. Crea una sala → únete → inicia la partida → juega un turno
 
-Esto demuestra comunicación **en tiempo real entre varios clientes conectados al servidor**.
-
 ---
 
 ## Funcionalidades principales
