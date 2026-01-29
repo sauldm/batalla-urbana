@@ -39,7 +39,7 @@ Repositorios:
 
 ---
 
-## Arquitectura (resumen)
+## Arquitectura
 El proyecto sigue una **arquitectura hexagonal**, separando claramente la lógica del juego de la infraestructura.
 
 - **Domain**  
