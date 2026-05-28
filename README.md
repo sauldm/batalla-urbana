@@ -20,7 +20,7 @@ Repositorios:
 ---
 
 ## Demo online (Live)
-- **http://93.93.112.225**
+- **https://www.batallaurbana.com/**
 
 ### Cómo probar el multijugador
 1. Abre la web en una ventana normal (Jugador 1)
